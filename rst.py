@@ -724,5 +724,5 @@ while True:
         )
 
         pausar()
-by rst
+
 dc: ristoteles7 
