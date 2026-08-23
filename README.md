@@ -5,4 +5,7 @@ gift clone https://github.com/pedrogustavosoares20-debug/rst-termux.git
 
 cd rst-termux
 
-python rst.py
+python hellokittyy.py
+
+users: users
+pass: termux-users
