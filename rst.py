@@ -49,7 +49,8 @@ HELLO_KITTY = r"""
 
 
 
-              HELLO KITTY
+              painel hello kitty
+               dc: ristoteles7
 """
 
 
