@@ -8,4 +8,5 @@ cd rst-termux
 python hellokittyy.py
 
 users: users
+
 pass: termux-users
